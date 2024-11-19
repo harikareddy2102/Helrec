@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/harikareddyadulla/Downloads/HelRec/contracts/HealthRecord.sol": {
+      "lastModificationDate": 1730782251342,
+      "contentHash": "47b7d4c1ca54fd5280b1220c2dce8dfe",
+      "sourceName": "contracts/HealthRecord.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "HealthRecord"
+      ]
+    }
+  }
+}
